@@ -21,9 +21,9 @@ project-root/
 
 ├── 📂 data/
 
-│   ├── 📂 raw/               # Raw dataset files
+│      ├── 📂 raw/               # Raw dataset files
 
-│   ├── 📂 processed/         # Processed data files ready for analysis
+│      ├── 📂 processed/         # Processed data files ready for analysis
 
 ├── 📂 notebooks/             # Jupyter notebooks for exploratory analysis
 
