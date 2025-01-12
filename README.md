@@ -8,13 +8,21 @@ The dataset is sourced from the Data.gov catalog, maintained by the Lake County 
 
 🗂️ Key Attributes
 • 🏋️ Obesity: Percentage of the state population considered obese (2015 CDC BRFSS Survey).
+
 • 📍 State: The U.S. state for which the data is reported.
+
 • 🗓️ Metadata:
+
 • Resource Type: Dataset
+
 • Metadata Created Date: September 1, 2022
+
 • Metadata Updated Date: November 22, 2024
+
 • Publisher: Lake County Illinois GIS
+
 • Maintainer: LakeCounty_Illinois
+
 
 📁 Project Structure
 project-root/
