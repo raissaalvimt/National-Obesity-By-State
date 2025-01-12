@@ -1,7 +1,7 @@
-#Overview
+# Overview
 This project analyzes the percentage of the population considered obese across different U.S. states, based on data from the 2015 CDC BRFSS Survey. The dataset provides insights into obesity trends and facilitates understanding of factors influencing these patterns at the state level.
 
-#Dataset
+# Dataset
 The dataset is sourced from the Data.gov catalog, maintained by the Lake County Illinois GIS team.
 
 #Key Attributes:
