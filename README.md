@@ -18,15 +18,25 @@ The dataset is sourced from the Data.gov catalog, maintained by the Lake County 
 
 📁 Project Structure
 project-root/
+
 ├── 📂 data/
+
 │   ├── 📂 raw/               # Raw dataset files
+
 │   ├── 📂 processed/         # Processed data files ready for analysis
+
 ├── 📂 notebooks/             # Jupyter notebooks for exploratory analysis
+
 ├── 📂 scripts/               # Python scripts for data processing and analysis
+
 ├── 📂 reports/               # Generated visualizations and reports
+
 ├── 📄 README.md              # Project documentation
+
 ├── 📄 requirements.txt       # Python dependencies
+
 └── 📄 LICENSE                # License information
+
 
 🛠️ Steps in the Project
 
